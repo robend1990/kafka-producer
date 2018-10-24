@@ -1,0 +1,1 @@
+Very simple kafka producer application (without spring framework)
